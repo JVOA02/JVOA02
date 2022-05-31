@@ -3,14 +3,16 @@
 ───▓▓▓█▓█──▓█────▓█──▓█─.▓▓▓█
 ────.▓█─▓█─▓█─────▓█─▓█───.▓█
 ──▓▓▓█─.▓▓▓█─▓▓▓█─▓▓▓█──▓▓▓█
+#
+  [![Header]( https://github.com/JVOA02/JVOA02/blob/main/github-header-image%200.01.png "Header")](#)
+  
 <div align="center">
   <a href="https://github.com/JVOA02">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JVOA02&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
     <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVOA02&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
-
-  [![Header]( https://github.com/JVOA02/JVOA02/blob/main/picasion.com_113a4a9c9cedd5d2ba8b7f7c9589dd4a.gif "Header")](#)
+  
 <div align="center">
   <br>
   <img align="center" alt="JVOA-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -26,7 +28,7 @@
 </div>
   <br>
  <div align="center">
-   <img align="right" alt="JVOA-pic" height="150" width="150" style="border-radius:50px;" src="https://github.com/JVOA02/JVOA02/blob/main/JVOA02_GIF_LOFI.gif">
+   <img align="center" alt="JVOA-pic" height="150" width="150" style="border-radius:50px;" src="https://github.com/JVOA02/JVOA02/blob/main/JVOA02_GIF_LOFI.gif">
  </div>
 
   
