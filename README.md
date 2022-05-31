@@ -10,6 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVOA02&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 ![Header](./JVOA02_GIF_LOFI.png)
+  [![Header](https://raw.githubusercontent.com/leviarista/leviarista/master/gh-profile-header.gif "Header")](#)
 <div align="center">
   <br>
   <img align="center" alt="JVOA-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
