@@ -1,11 +1,11 @@
-### Hello, my name´s João Vitor 👋
+
 
 ───▓▓▓█▓█──▓█────▓█──▓█─.▓▓▓█
 ────.▓█─▓█─▓█─────▓█─▓█───.▓█
 ──▓▓▓█─.▓▓▓█─▓▓▓█─▓▓▓█──▓▓▓█
 #
-  [![Header]( https://github.com/JVOA02/JVOA02/blob/main/github-header-image%200.01.png "Header")](#)
-  <img align="center" src="https://i.ibb.co/NyVcfPy/github-header-image.png"/>
+  <img align="center" src="https://github.com/JVOA02/JVOA02/blob/main/github-header-image%200.01.png"/>
+ 
 <div align="center">
   <a href="https://github.com/JVOA02">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JVOA02&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
