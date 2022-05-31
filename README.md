@@ -26,7 +26,7 @@
 </div>
   <br>
  <div align="center">
-   <img align="right" alt="JVOA-pic" height="450" width="450" style="border-radius:50px;" src="https://github.com/JVOA02/JVOA02/blob/main/JVOA02_GIF_LOFI.gif">
+   <img align="right" alt="JVOA-pic" height="150" width="150" style="border-radius:50px;" src="https://github.com/JVOA02/JVOA02/blob/main/JVOA02_GIF_LOFI.gif">
  </div>
 
   
