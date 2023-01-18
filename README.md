@@ -8,9 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/JVOA02">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JVOA02&theme=dark"/>
-    <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVOA02/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JVOA02"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVOA02"/>
 </div>
   
 <div align="center">
