@@ -5,10 +5,10 @@
 ──▓▓▓█─.▓▓▓█─▓▓▓█─▓▓▓█──▓▓▓█
 #
   <img align="center" src="https://github.com/JVOA02/JVOA02/blob/main/github-header-image%200.01.png"/>
- 
+
 <div align="center">
   <a href="https://github.com/JVOA02">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JVOA02&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JVOA2"/>
     <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVOA02&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
