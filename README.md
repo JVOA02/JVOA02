@@ -1,9 +1,4 @@
 
-
-───▓▓▓█▓█──▓█────▓█──▓█─.▓▓▓█
-────.▓█─▓█─▓█─────▓█─▓█───.▓█
-──▓▓▓█─.▓▓▓█─▓▓▓█─▓▓▓█──▓▓▓█
-#
   <img align="center" src="https://github.com/JVOA02/JVOA02/blob/main/github-header-image%200.01.png"/>
 
 <div align="center">
